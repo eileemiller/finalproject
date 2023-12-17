@@ -1,0 +1,31 @@
+.mb-2{
+    width: 150px;
+}
+h2{
+font-family:'Comic Sans','Courier New', Courier, monospace;
+}
+
+.darkcolor{
+    background-color: rgb(22, 13, 83) !important;
+}
+
+.textcolor{
+    --bs-text-opacity: 1;
+    color:rgb(38, 29, 96) !important ; 
+}
+
+  a:link {
+    color:rgb(142, 135, 189) !important ;
+  }
+  a:active{
+    color:rgb(142, 135, 189) !important
+  }
+  a:visited {
+    color: rgb(196, 191, 229) !important
+  }
+  a:hover {
+    color: rgb(142, 135, 189) !important;
+  } 
+  .social-icons .social-icon:hover {
+  background-color: rgb(184, 178, 220)!important;
+  }
